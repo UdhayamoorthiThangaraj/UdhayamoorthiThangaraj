@@ -1,8 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2200&pause=800&color=FF2D55&center=true&vCenter=true&width=650&lines=Udhayamoorthi+T;B.Tech+IT+Student;Full-Stack+Developer)](https://git.io/typing-svg)
-
-**B.Tech Information Technology Student | Full-Stack Developer | Java & Spring Boot**
-
-*"Turning ideas into real-world solutions..."*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1800&pause=600&color=39FF14&center=true&vCenter=true&width=680&lines=Udhayamoorthi+T;Code.+Build.+Grow.)](https://git.io/typing-svg)
 
 ---
 
