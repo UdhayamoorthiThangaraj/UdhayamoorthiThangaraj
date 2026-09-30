@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://github.com/UdhayamoorthiThangaraj.png" width="150" height="150" style="border-radius: 50%; border: 3px solid #00F0FF;" />
 </div>
-
 <br>
 <div align="center">
 
