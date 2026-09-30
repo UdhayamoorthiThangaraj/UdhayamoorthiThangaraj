@@ -20,13 +20,14 @@
 
 ## 👨‍💻 About Me
 
-text
+```text
 🎓 B.Tech Information Technology
 💻 Interested in Full-Stack Development
 ☕ Learning Java & Spring Boot
 🗄️ Working with MySQL & PostgreSQL
 🚀 Building projects for real-world problems
 🧠 Improving DSA & Problem Solving
+```
 ---
 
 ## 🛠️ Tech Stack
