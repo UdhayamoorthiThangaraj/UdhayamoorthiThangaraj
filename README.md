@@ -1,4 +1,5 @@
 # Hi there, I'm Your Name 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+I'm+UdhayamoorthiThangaraj;Full-Stack+Developer;Java+%26+Spring+Boot;Turning+ideas+into+solutions)](https://git.io/typing-svg)
 
 **B.Tech Information Technology Student | Full-Stack Developer | Java & Spring Boot**
 
@@ -15,9 +16,10 @@
 ### 🛠️ Tech Stack
 
 **Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
 
 **Frontend**  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,6 +44,16 @@
 | **Assignment Helper Agent** | AI-powered platform to help students manage assignments | React + TypeScript + Spring Boot + PostgreSQL |
 | **Online Job System** | Helps users find jobs matching their resumes | Java + HTML + CSS + MySQL |
 | **Smart Concept Explainer** | Uses Gemini AI to explain concepts | Java + HTML + CSS + MySQL |
+ ### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UdhayamoorthiThangaraj&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UdhayamoorthiThangaraj&layout=compact&theme=dark)
+
+### 📈 Activity Graph
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UdhayamoorthiThangaraj&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=UdhayamoorthiThangaraj&style=for-the-badge)
 
 ### 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/udhayamoorthi-t-9a1404334/)
