@@ -16,8 +16,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4500&pause=2000&color=00D9FF&width=900&repeat=false&lines=Final-year+B.Tech+IT+student+at+V.S.B+Engineering+College%2C+Karur.;Passionate+about+building+useful+applications+and+solving+real-world+problems.;Growing+every+day+as+a+Full-Stack+Developer.)](https://git.io/typing-svg)
 
-<br>
-
 ### 🛠️ Tech Stack
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=FFD700&width=700&repeat=false&lines=Languages+%7C+Frontend+%7C+Backend+%7C+Database+%7C+Tools)](https://git.io/typing-svg)
