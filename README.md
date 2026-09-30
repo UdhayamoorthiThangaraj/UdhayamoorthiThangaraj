@@ -1,12 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2200&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=I'm+Udhayamoorthi+T)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2200&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=I'm+Udhayamoorthi+T)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=B.Tech+Information+Technology+Student+%7C+Full-Stack+Developer+%7C+Java+%26+Spring+Boot)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=B.Tech+Information+Technology+Student+%7C+Full-Stack+Developer+%7C+Java+%26+Spring+Boot)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1500&color=FF6B6B&center=true&vCenter=true&width=600&lines=%22Turning+ideas+into+real-world+solutions...%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1500&color=FF6B6B&center=true&vCenter=true&width=700&lines=%22Turning+ideas+into+real-world+solutions...%22)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,13 +14,13 @@
 
 ### 👨‍💻 About Me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=2000&color=00D9FF&width=800&lines=Final-year+B.Tech+IT+student+at+V.S.B+Engineering+College%2C+Karur.;Passionate+about+building+useful+applications+and+solving+real-world+problems.;Growing+every+day+as+a+Full-Stack+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4500&pause=2000&color=00D9FF&width=900&lines=Final-year+B.Tech+IT+student+at+V.S.B+Engineering+College%2C+Karur.;Passionate+about+building+useful+applications+and+solving+real-world+problems.;Growing+every+day+as+a+Full-Stack+Developer.)](https://git.io/typing-svg)
 
 <br>
 
 ### 🛠️ Tech Stack
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=FFD700&width=600&lines=Languages+%7C+Frontend+%7C+Backend+%7C+Database+%7C+Tools)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=FFD700&width=700&lines=Languages+%7C+Frontend+%7C+Backend+%7C+Database+%7C+Tools)](https://git.io/typing-svg)
 
 **Languages**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
