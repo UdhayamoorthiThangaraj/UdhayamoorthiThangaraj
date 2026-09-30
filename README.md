@@ -4,10 +4,12 @@
 B.Tech IT Student | Full-Stack Developer | Java & Spring Boot
 </h3>
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/UdhayamoorthiThangaraj">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-  </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=UdhayamoorthiThangaraj&show_icons=true&theme=tokyonight">
+
 </p>
 
 ---
@@ -68,10 +70,9 @@ AI-based system that explains concepts from diagrams.
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight">
 
 </p>
-
----
-
 ## 📫 Connect With Me
-- 💼 LinkedIn <a href="https://www.linkedin.com/in/udhayamoorthi-t-9a1404334/?isSelfProfile=true">
-- 📧 Email <a href="thangarjudhaya@gmail.com">
-- 🐙 GitHub <a href="https://github.com/UdhayamoorthiThangaraj">
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/udhayamoorthi-t-9a1404334/?isSelfProfile=true)
+- 📧 [Email](mailto:thangarjudhaya@gmail.com)
+- 🐙 [GitHub]([https://github.com/YOUR-GITHUB-USERNAME](https://github.com/UdhayamoorthiThangaraj))
+
