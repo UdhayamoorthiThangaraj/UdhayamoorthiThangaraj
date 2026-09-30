@@ -1,4 +1,4 @@
-<div al<div align="center">
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=900&repeat=false&lines=Welcome+to+My+GitHub)](https://git.io/typing-svg)
 
@@ -15,6 +15,7 @@
 ### 👨‍💻 About Me
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4500&pause=2000&color=00D9FF&width=900&repeat=false&lines=Final-year+B.Tech+IT+student+at+V.S.B+Engineering+College%2C+Karur.;Passionate+about+building+useful+applications+and+solving+real-world+problems.;Growing+every+day+as+a+Full-Stack+Developer.)](https://git.io/typing-svg)
+
 
 ### 🛠️ Tech Stack
 
@@ -46,7 +47,7 @@
 
 ### 🚀 Featured Projects
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1500&color=FF2D55&width=700&lines=Assignment+Helper+Agent+%7C+Online+Job+System+%7C+Smart+Concept+Explainer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1500&color=FF2D55&width=850&repeat=false&lines=Assignment+Helper+Agent+%7C+Online+Job+System+%7C+Smart+Concept+Explainer)](https://git.io/typing-svg)
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -57,13 +58,14 @@
 <br>
 
 ### 📊 GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=UdhayamoorthiThangaraj&style=for-the-badge&color=blue)
+
 <br>
 
 ### 🔗 Connect With Me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00FFCC&width=500&lines=Let's+connect+and+build+something+amazing!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1000&color=00FFCC&width=550&repeat=false&lines=Let's+connect+and+build+something+amazing!)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/udhaya-moorthi-t-9a1404334)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/udhaya-moorthi-t)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thangarjudhaya@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UdhayamoorthiThangaraj)
