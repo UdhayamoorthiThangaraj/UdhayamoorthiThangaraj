@@ -43,11 +43,6 @@
 | **Online Job System** | Helps users find jobs matching their resumes | Java + HTML + CSS + MySQL |
 | **Smart Concept Explainer** | Uses Gemini AI to explain concepts | Java + HTML + CSS + MySQL |
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UdhayamoorthiThangaraj&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UdhayamoorthiThangaraj&layout=compact&theme=dark)
-
 ### 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/udhayamoorthi-t-9a1404334)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thangarjudhaya@gmail.com)
