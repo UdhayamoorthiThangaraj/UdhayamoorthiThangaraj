@@ -63,13 +63,6 @@ AI-based system that explains concepts from diagrams.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight">
-
-</p>
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/udhayamoorthi-t-9a1404334/?isSelfProfile=true)
