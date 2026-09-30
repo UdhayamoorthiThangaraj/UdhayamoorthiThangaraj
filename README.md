@@ -44,13 +44,6 @@
 | **Assignment Helper Agent** | AI-powered platform to help students manage assignments | React + TypeScript + Spring Boot + PostgreSQL |
 | **Online Job System** | Helps users find jobs matching their resumes | Java + HTML + CSS + MySQL |
 | **Smart Concept Explainer** | Uses Gemini AI to explain concepts | Java + HTML + CSS + MySQL |
- ### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UdhayamoorthiThangaraj&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UdhayamoorthiThangaraj&layout=compact&theme=dark)
-
-### 📈 Activity Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UdhayamoorthiThangaraj&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ### 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=UdhayamoorthiThangaraj&style=for-the-badge)
