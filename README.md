@@ -5,8 +5,8 @@
 ### 👨‍💻 About Me
 - 🎓 Final-year B.Tech IT student at V.S.B Engineering College
 - 💡 Passionate about building useful applications
-- 🌱 Currently learning ...
-- 🏠 Hometown: ...
+- 🌱 Currently learning DSA
+- 🏠 Hometown: Karur
 
 ### 🛠️ Tech Stack
 
