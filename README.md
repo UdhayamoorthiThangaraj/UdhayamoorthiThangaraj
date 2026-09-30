@@ -1,5 +1,4 @@
-# Hi there, I'm Your Name 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+I'm+UdhayamoorthiThangaraj;Full-Stack+Developer;Java+%26+Spring+Boot;Turning+ideas+into+solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+I'm+UdhayamoorthiThangaraj;)](https://git.io/typing-svg)
 
 **B.Tech Information Technology Student | Full-Stack Developer | Java & Spring Boot**
 
