@@ -1,4 +1,3 @@
-````markdown
 <h1 align="center">👋 Hello World! /&gt;</h1>
 
 <h2 align="center">✨ Welcome to My GitHub ✨</h2>
@@ -21,15 +20,13 @@
 
 ## 👨‍💻 About Me
 
-```text
+text
 🎓 B.Tech Information Technology
 💻 Interested in Full-Stack Development
 ☕ Learning Java & Spring Boot
 🗄️ Working with MySQL & PostgreSQL
 🚀 Building projects for real-world problems
 🧠 Improving DSA & Problem Solving
-````
-
 ---
 
 ## 🛠️ Tech Stack
@@ -163,11 +160,11 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/">
+<a href="www.linkedin.com/in/udhayamoorthi-t-9a1404334">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:thangarjudhaya@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
