@@ -6,11 +6,7 @@ B.Tech IT Student | Full-Stack Developer | Java & Spring Boot
 
 ## 📊 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=UdhayamoorthiThangaraj&show_icons=true&theme=tokyonight">
-
-</p>
+![Udhayamoorthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UdhayamoorthiThangaraj&show_icons=true&theme=tokyonight)
 
 ---
 
