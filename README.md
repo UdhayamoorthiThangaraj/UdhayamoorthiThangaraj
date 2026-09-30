@@ -1,4 +1,9 @@
 <div align="center">
+  <img src="https://github.com/UdhayamoorthiThangaraj.png" width="150" height="150" style="border-radius: 50%; border: 3px solid #00F0FF;" />
+</div>
+
+<br>
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=900&repeat=false&lines=Welcome+to+My+GitHub)](https://git.io/typing-svg)
 
