@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Udhayamoorthi+T;Full-Stack+Developer;Java+%26+Spring+Boot)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=34&duration=2800&pause=1200&color=00FFCC&center=true&vCenter=true&width=750&lines=I'm+Udhayamoorthi+T;Turning+Ideas+into+Solutions)](https://git.io/typing-svg)
 
 **B.Tech Information Technology Student | Full-Stack Developer | Java & Spring Boot**
 
