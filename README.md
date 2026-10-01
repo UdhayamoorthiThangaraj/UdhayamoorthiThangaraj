@@ -56,12 +56,6 @@
 | **Smart Concept Explainer** | Uses Gemini AI to analyze diagrams and explain concepts | Java + HTML + CSS + MySQL |
 
 <br>
-
-### 📊 GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=UdhayamoorthiThangaraj&style=for-the-badge&color=blue)
-
-<br>
-
 ### 🔗 Connect With Me
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1000&color=00FFCC&width=550&repeat=false&lines=Let's+connect+and+build+something+amazing!)](https://git.io/typing-svg)
